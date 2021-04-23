@@ -48,7 +48,7 @@ fn handle_client(mut stream: TcpStream) -> io::Result<()>{
         if bytes_read==0{
             return Ok(());
         }
-        //重新写会stream
+        //重新写回stream
         stream.write(&buf[..bytes_read])?;
         //利用time包休息一秒钟
         thread::sleep(time::Duration::from_secs(1));
