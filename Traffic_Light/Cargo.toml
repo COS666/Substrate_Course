@@ -1,0 +1,9 @@
+[package]
+name = "Traffic_Light"
+version = "0.1.0"
+authors = ["COS666 <qq976155401@live.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
