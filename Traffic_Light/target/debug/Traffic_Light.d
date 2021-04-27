@@ -1,0 +1,1 @@
+/Users/junwei/CLionProjects/Substrate_Course/Traffic_Light/target/debug/Traffic_Light: /Users/junwei/CLionProjects/Substrate_Course/Traffic_Light/src/Area.rs /Users/junwei/CLionProjects/Substrate_Course/Traffic_Light/src/Integer_sum.rs /Users/junwei/CLionProjects/Substrate_Course/Traffic_Light/src/Traffic.rs /Users/junwei/CLionProjects/Substrate_Course/Traffic_Light/src/main.rs
